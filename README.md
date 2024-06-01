@@ -9,10 +9,10 @@ My insatiable appetite for knowledge fuels my journey. With a diverse skill set,
 <br>
 <br>
 
+ 
+- 🌱 I’m currently learning **React, Node.js, Rust, Cairo** and **learning new technologies like new world of web3**
 
-- 🔭 I’m currently working on **learning new technologies like new world of web3**
 
-- 🌱 I’m currently learning **React, Node.js, Rust, Cairo**
   
 <br>
 <br>
