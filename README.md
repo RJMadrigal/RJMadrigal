@@ -45,8 +45,7 @@ interest: [Software-Development, Web3 Junior, Opensource]
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RJMadrigal&show_icons=true&locale=en&layout=compact" alt="RJMadrigal" />
 </p>
-
-[![RJMadrigal's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RJMadrigal&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RJMadrigal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center">
