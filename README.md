@@ -50,9 +50,8 @@ interest: [Software-Development, Web3 Junior, Opensource]
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RJMadrigal&" alt="RJMadrigal" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RJMadrigal&" alt="RJMadrigal" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RJMadrigal&show_icons=true&theme=radical)
+
 
 
 
