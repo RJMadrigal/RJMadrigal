@@ -45,6 +45,7 @@ interest: [Software-Development, Web3 Junior, Opensource]
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RJMadrigal&show_icons=true&locale=en&layout=compact" alt="RJMadrigal" />
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RJMadrigal&layout=compact&theme=radical)](
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RJMadrigal&" alt="RJMadrigal" />
