@@ -1,6 +1,10 @@
 # 👋 Hi, I’m @RJMadrigal
 
-<h4 align="center">I’m a dedicated Systems Engineer with a passion for leveraging technology to solve complex challenges. My journey is fueled by a constant drive to expand my knowledge and explore the latest innovations. Proficient in C#, .NET, JavaScript, RESTful APIs, and databases, I bring a versatile skill set in both back-end and front-end development. My diverse expertise spans HTML, CSS, JavaScript, React, Python, and more as I delve into the emerging realms of Rust and Cairo. Join me as I continuously learn, adapt, and strive to make a meaningful impact in the tech world.</h4>
+<h4 align="center">I'm a dedicated Systems Engineer passionate about leveraging technology to solve complex challenges. My journey is driven by a constant thirst for knowledge and an eagerness to explore cutting-edge innovations.
+
+Proficient in C#, .NET, JavaScript, RESTful APIs, and database management, I excel in both back-end and front-end development. My diverse expertise includes HTML, CSS, React, and Python, with ongoing exploration into Rust and Cairo for emerging tech solutions.
+
+I thrive on continuous learning, adaptability, and making a meaningful impact in the tech world. Let’s connect and collaborate! 🚀</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RJMadrigal&label=Profile%20views&color=0e75b6&style=flat" alt="RJMadrigal" /> </p>
 
@@ -26,17 +30,6 @@
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
   </a>
 </p>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 🚀 My Skills and Technologies
-```js
-const RJMadrigal = {
-pronouns:"he" | "him",
-code: [C#, Python, Rust, JS, HTML, CSS],
-tools: [Git, React, .Net, SQL, NodeJS, Express],
-interest: [Software-Development, Web3 Junior, Opensource]
-}
-```
-
 
 ## 📈 GitHub Stats
 
