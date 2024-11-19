@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RJMadrigal&label=Profile%20views&color=0e75b6&style=flat" alt="RJMadrigal" /> </p>
 
-<img  align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img  align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif">
 
 - 🤝 Open to collaborating on open-source projects and exploring new opportunities in software development.
 
