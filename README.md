@@ -41,11 +41,21 @@ I thrive on continuous learning, adaptability, and making a meaningful impact in
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RJMadrigal&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=RJMadrigal&theme=radical&hide_border=false)
+
+</p>
+<p align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=RJMadrigal&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+  
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RJMadrigal&" alt="GitHub Streak" />
+  
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RJMadrigal&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
 </p>
 
 
