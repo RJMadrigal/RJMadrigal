@@ -54,7 +54,7 @@ I thrive on continuous learning, adaptability, and making a meaningful impact in
 
 <p align="center">
   
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RJMadrigal&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RJMadrigal&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
   
 </p>
 
