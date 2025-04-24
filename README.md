@@ -1,64 +1,77 @@
-# 👋 Hi, I’m @RJMadrigal
+# 👋 Hello, I’m @RJMadrigal
 
-<h4 align="center">
-I'm a dedicated Systems Engineer passionate about leveraging technology to solve complex challenges. My journey is driven by a constant thirst for knowledge and an eagerness to explore cutting-edge innovations.<br><br>
-Proficient in Python, C#, .NET, Django, JavaScript/ TypeScript, RESTful APIs, and database management, I excel in both back-end and front-end development. My diverse expertise includes Angular, React.js and Next.js
-I thrive on continuous learning, adaptability, and making a meaningful impact in the tech world. Let’s connect and collaborate! 🚀
-</h4>
+![Coding](https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RJMadrigal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## 🚀 Systems Engineer | Full-Stack Developer | Tech Explorer
 
-<p align="center">
-  <img alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif">
-</p>
+
+I'm a passionate Systems Engineer focused on crafting impactful software solutions. With a proactive mindset and deep curiosity, I thrive in high-paced environments, solving problems through clean architecture, modern technologies, and collaboration. Currently learning and making some things with AI and Web3 ecosystem.
 
 ---
 
-- 🤝 Open to collaborating on open-source projects and exploring new opportunities in software development.
+## 💼 About Me
 
-<br>
+- 🎓 **Profession:** Systems Engineer
+- 🧠 **Mindset:** Lifelong learner — constantly pushing boundaries in cloud computing, architecture, and modern development
+- 🛠️ **Craft:** Full-Stack Development with attention to performance, maintainability, and scalability
+- 🤝 **Available for:** Open-source, freelance gigs, remote teamwork, and ambitious tech projects
+- 🧩 **Believer in:** Simplicity, design systems, and impactful digital transformation
 
-## <b>Let's Connect..!</b> 🤝  
-<p align="center">
-  <a href="https://twitter.com/bymadrigal" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/rjosuemadrigal/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
-  </a>
-  <a href="https://t.me/bymadrigal" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30" />
-  </a>
-  <a href="mailto:josuemadrigalvevo@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
-  </a>
-</p>
+---
+
+## 🧰 Tech Stack
+
+**Languages:**  
+`Python` · `C#` · `JavaScript` · `TypeScript` · `SQL` · `Rust` · `Solidity`  
+
+**Frameworks & Libraries:**  
+`.NET` · `Django` · `Angular` · `React` · `Next.js`
+
+**Tools & Practices:**  
+`REST APIs` · `Git` · `Docker` · `Postman` · `Entity Framework` · `Clean Architecture` · `Agile` · `CI/CD` · `Automation Tools` 
+
+**Databases:**  
+`SQL Server` · `PostgreSQL` · `MySQL` · `SQLite` · `MariaDB` · `MongoDB` 
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=RJMadrigal&theme=radical&hide_border=false)
-
+  <img src="https://komarev.com/ghpvc/?username=RJMadrigal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-<p align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=RJMadrigal&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-  
-</p>
-
 
 <p align="center">
-  
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RJMadrigal&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RJMadrigal&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RJMadrigal&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJMadrigal&theme=radical&hide_border=false&layout=compact&count_private=true" alt="Top Languages" />
+</p>
 
+---
 
+## 🌐 Let’s Connect
 
+<p align="center">
+  <a href="https://x.com/bymadrigal" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/rjosuemadrigal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://t.me/RJMadrigal" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:josuemadrigalvevo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+<p align="center"><b>⚡ Let's build the future — one commit at a time.</b></p>
