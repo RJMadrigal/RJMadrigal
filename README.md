@@ -2,7 +2,7 @@
 
 <h4 align="center">
 I'm a dedicated Systems Engineer passionate about leveraging technology to solve complex challenges. My journey is driven by a constant thirst for knowledge and an eagerness to explore cutting-edge innovations.<br><br>
-Proficient in C#, .NET, JavaScript, RESTful APIs, and database management, I excel in both back-end and front-end development. My diverse expertise includes HTML, CSS, React, and Python, with ongoing exploration into Rust and Cairo for emerging tech solutions.<br><br>
+Proficient in Python, C#, .NET, Django, JavaScript/ TypeScript, RESTful APIs, and database management, I excel in both back-end and front-end development. My diverse expertise includes Angular, React.js and Next.js
 I thrive on continuous learning, adaptability, and making a meaningful impact in the tech world. Let’s connect and collaborate! 🚀
 </h4>
 
