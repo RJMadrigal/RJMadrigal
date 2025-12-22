@@ -1,78 +1,99 @@
-# 👋 Hello, I’m @RJMadrigal
+<h1 align="center">👋 Josué Madrigal (@RJMadrigal)</h1>
 
+<p align="center">
+  <b>Systems Engineer · Full-Stack Developer</b><br/>
+  Automation · Applied AI · Web Systems · Pragmatic Web3
+</p>
 
-![Coding](https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif)
-
-## 🚀 Systems Engineer | Full-Stack Developer | Tech Explorer
-
-
-I'm a passionate Systems Engineer focused on crafting impactful software solutions. With a proactive mindset and deep curiosity, I thrive in high-paced environments, solving problems through clean architecture, modern technologies, and collaboration. Currently learning and making some things with AI and Web3 ecosystem.
-
----
-
-## 💼 About Me
-
-- 🎓 **Profession:** Systems Engineer
-- 🧠 **Mindset:** Lifelong learner — constantly pushing boundaries in cloud computing, architecture, and modern development
-- 🛠️ **Craft:** Full-Stack Development with attention to performance, maintainability, and scalability
-- 🤝 **Available for:** Open-source, freelance gigs, remote teamwork, and ambitious tech projects
-- 🧩 **Believer in:** Simplicity, design systems, and impactful digital transformation
+<p align="center">
+  <i>Building useful software. Clean systems over hype.</i>
+</p>
 
 ---
 
-## 🧰 Tech Stack
+### Snapshot
 
-**Languages:**  
-`Python` · `C#` · `JavaScript` · `TypeScript` · `SQL` · `Rust` · `Solidity`  
+- Systems Engineering student & full-stack developer  
+- Focused on **web apps, automation, and applied AI**
+- Backend-first when it matters
+- Web3 explored as infrastructure, not ideology
 
-**Frameworks & Libraries:**  
+---
+
+<details>
+<summary><b>🧠 What I Do (expand)</b></summary>
+
+- Build web platforms and internal tools
+- Automate workflows and repetitive processes
+- Integrate APIs, payments, and external services
+- Use AI as a **productivity and decision-support tool**
+- Learn Web3 pragmatically: contracts, trade-offs, integration
+
+I value clarity, maintainability, and real-world constraints.
+</details>
+
+---
+
+<details>
+<summary><b>🧰 Tech Stack</b></summary>
+
+**Languages**  
+`Python` · `C#` · `JavaScript` · `TypeScript` · `SQL`  
+<sub>Learning carefully: `Rust`, `Solidity`</sub>
+
+**Frameworks**  
 `.NET` · `Django` · `Angular` · `React` · `Next.js`
 
-**Tools & Practices:**  
-`REST APIs` · `Git` · `Docker` · `Postman` · `Entity Framework` · `Clean Architecture` · `Agile` · `CI/CD` · `Automation Tools` 
+**Systems & Practices**  
+`REST APIs` · `Auth` · `Clean Architecture` ·  
+`Docker` · `Git` · `CI/CD` · `Automation Pipelines`
 
-**Databases:**  
-`SQL Server` · `PostgreSQL` · `MySQL` · `SQLite` · `MariaDB` · `MongoDB` 
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RJMadrigal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RJMadrigal&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RJMadrigal&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJMadrigal&theme=radical&hide_border=false&layout=compact&count_private=true" alt="Top Languages" />
-</p>
+**Databases**  
+`PostgreSQL` · `SQL Server` · `MySQL` · `SQLite` · `MongoDB`
+</details>
 
 ---
 
-## 🌐 Let’s Connect
+<details>
+<summary><b>🔍 Current Interests</b></summary>
+
+- AI-assisted backend development (LLMs as tools)
+- Automation for small & mid-size businesses
+- Scalable, boring-but-solid architectures
+- Web3 where decentralization actually adds value
+</details>
+
+---
+
+<details>
+<summary><b>🤝 Work & Collaboration</b></summary>
+
+- Open-source friendly  
+- Freelance & contract-ready  
+- Remote-first  
+- Prefer projects with real users and clear goals
+</details>
+
+---
+
+### GitHub Activity
 
 <p align="center">
-  <a href="https://x.com/bymadrigal" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.linkedin.com/in/rjosuemadrigal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://t.me/RJMadrigal" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:josuemadrigalvevo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=RJMadrigal&show_icons=true&hide_title=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJMadrigal&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
-<p align="center"><b>⚡ Let's build the future — one commit at a time.</b></p>
+### Contact
+
+<p align="center">
+  <a href="https://x.com/bymadrigal"><kbd>X</kbd></a>
+  <a href="https://www.linkedin.com/in/rjosuemadrigal/"><kbd>LinkedIn</kbd></a>
+  <a href="https://t.me/RJMadrigal"><kbd>Telegram</kbd></a>
+  <a href="mailto:josuemadrigalvevo@gmail.com"><kbd>Email</kbd></a>
+</p>
+
+<p align="center">
+  <sub>Building systems that survive contact with reality.</sub>
+</p>
