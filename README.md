@@ -79,8 +79,7 @@ I value clarity, maintainability, and real-world constraints.
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RJMadrigal&show_icons=true&hide_title=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJMadrigal&layout=compact&theme=radical" height="150"/>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=RJMadrigal)](https://git.io/streak-stats)
 </p>
 
 ---
