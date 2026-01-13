@@ -76,13 +76,6 @@ I value clarity, maintainability, and real-world constraints.
 
 ---
 
-### GitHub Activity
-
-<p align="center">
- [![GitHub Streak](https://streak-stats.demolab.com?user=RJMadrigal)](https://git.io/streak-stats)
-</p>
-
----
 
 ### Contact
 
